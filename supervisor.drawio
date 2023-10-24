@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T15:46:34.318Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="ytV0Hu-an_nD3Ls736z8" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T16:19:08.536Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="Vs_z9uI5pZSWY3syr5ZD" version="22.0.6" type="github">
   <diagram name="Trang-1" id="wtHH4Zfsqnfre9-4KBu9">
-    <mxGraphModel dx="2206" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2279" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,6 +340,9 @@
         </mxCell>
         <mxCell id="Ew0rQc23TwYFoaHI8i6h-28" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-420" y="1240" width="790" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew0rQc23TwYFoaHI8i6h-30" value="Region" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-441" y="830" width="831" height="820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
