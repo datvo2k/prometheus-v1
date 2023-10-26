@@ -1,6 +1,6 @@
 module "vpc" {
   source  = "terraform-aws-modules/vpc/aws"
-  version = "4.0.1" 
+  version = "~> 5.0" 
 
   # VPC Basic Details
   name = "${local.name}-${var.vpc_name}"
@@ -31,4 +31,3 @@ module "vpc" {
   # Instances launched into the Public subnet should be assigned a public IP address.
   map_public_ip_on_launch = true  
 }
-
